@@ -9,4 +9,6 @@ Niki Bell
 
 What We Learned:
 We learned how to add collaborators to our GitHub repository and push/pull.
+
+Practicing another push and pull.
  
